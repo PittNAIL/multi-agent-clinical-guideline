@@ -1,0 +1,1 @@
+"""Schema definitions for Clinical Guidelines Support System.""" 

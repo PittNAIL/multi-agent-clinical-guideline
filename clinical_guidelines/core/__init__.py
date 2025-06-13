@@ -1,0 +1,1 @@
+"""Core functionality for Clinical Guidelines Support System.""" 

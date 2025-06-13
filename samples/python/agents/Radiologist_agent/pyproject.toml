@@ -1,0 +1,23 @@
+[project]
+name = "radiologist_agent"
+version = "0.1.0"
+description = "A specialized radiologist agent for analyzing clinical cases and recommending imaging studies"
+requires-python = ">=3.12"
+dependencies = [
+    "click>=8.1.8",
+    "google-adk>=0.1.0",
+    "google-genai>=1.16.1",
+    "python-dotenv>=1.1.0",
+    "litellm>=1.0.0",
+    "ollama>=0.1.0",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["."]
+
+[tool.uv.sources]
+common = { path = "../common", editable = true }
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

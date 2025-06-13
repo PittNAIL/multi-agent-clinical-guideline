@@ -1,0 +1,55 @@
+Biopsy, if indicated, should be performed at the treating institution.
+
+Biopsy should be performed at treating institution.
+
+Low-grade extra compartmental appendicular tumors or
+Grade I axial tumors or
+High-grade (Grade II, Grade III) tumors or
+Clear cell chondrosarcoma or
+Extracompartmental tumors → CHON-3
+
+Defined as low-grade intracompartmental appendicular tumors. WHO classification of tumors editorial board. Soft tissue and bone tumors. Lyon (France): International Agency for research on cancer
+
+Biopsy to Confirm Diagnosis
+
+Defined as low-grade intracompartmental appendicular tumors. WHO classification of tumors editorial Board. Soft tissue and bone tumors.
+
+There is no known standard chemotherapy options for conventional chondrosarcoma grades 1-3, but ivosidenib is an option for susceptible IDH1 mutations. See Systemic Therapy Agents (BONE-B)
+
+Low-grade extra compartmental appendicular tumors OR
+
+Grade I axial tumors OR
+
+High-grade tumors (Grade II, Grade III) OR
+
+There is no known standard chemotherapy options for conventional chondrosarcoma grades 1-3, but ivosidenib is an option for susceptible IDH1 mutations. See Systemic Therapy Agents (BONE-B).
+
+Wide excision should provide histologically negative surgical margins. This may be achieved by either limb-sparing excision or limb amputation.
+
+Determine Histologic Subtype
+
+Consider bone marrow biopsy and/or screening MRI (with/without contrast) of spine & pelvis.
+
+Cytogenetics and/or molecular studies (may require re-biopsy)
+
+Ninety percent of Ewing sarcoma will have one of the four specific cytogenic translocations. For patients with other primary round cell sarcomas of bone, treating as Ewing sarcoma can be considered. For those who are negative, additional molecular testing is recommended. Other primary round cell sarcoma of bone was previously referred to as Ewing-like sarcoma, which is terminology that is no longer included in the WHO classification.
+
+Biopsy to confirm diagnosis.
+
+Low-Grade Osteosarcoma (Intramedullary + Surface) → Wide Excision
+
+High-Grade? → Chemotherapy (Category 1) → Surveillance (OSTEO-4)
+
+Low-Grade? → Surveillance (OSTEO-4)
+
+High-Grade? → Chemotherapy (Category 1) → Surveillance (OSTEO-4)
+
+Low-Grade? → Surveillance (OSTEO-4)
+
+High-Grade Osteosarcoma (Intramedullary + Surface) → Follow OSTEO-2
+
+Dedifferentiated parosteal osteosarcomas are not considered to be low-grade tumors.
+
+High-grade Osteosarcoma (Intramedullary + Surface)
+
+Other high-grade non-osteosarcoma variants such as undifferentiated pleomorphic sarcoma (UPS) of bone could also be treated using this algorithm.
