@@ -57,24 +57,10 @@ Click on the task list to see all the A2A task updates from the remote agents
    You can ask the demo agent _"What remote agents do you have access to?"_
    and there should not be any.
 
-   Next go start up **any** sample agent:
+   Next go start up **the clinical** sample agents:
 
    ```bash
    cd ../../samples/python/agents/google_adk/
    cp ../../../../demo/ui/.env ./
    uv run .
    ```
-
-   Back in the demo UI you can go to the _Remote Agents_ tab and add this agent's address:
-
-   ```
-   localhost:10002
-   ```
-
-   Then you can converse with the demo agent and it should now have access to the _Reimbursement Agent_.
-
-   You can ask it to _"reimburse lunch for 20 EUR but needs to be converted to USD ahead of time."_
-
-   Answer it's questions in a normal... If you need help converting currency, try adding the LangGraph sample agent too.
-
-   Review the events to see what happened.
