@@ -1,0 +1,9 @@
+# requirements.txt
+google-adk
+fastapi
+uvicorn
+requests
+click
+pydantic
+litellm
+python-docx 
