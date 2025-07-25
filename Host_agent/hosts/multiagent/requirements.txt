@@ -1,0 +1,4 @@
+a2a-samples
+google-genai>=1.9.0
+google-adk>=0.0.3
+litellm>=1.0.0 

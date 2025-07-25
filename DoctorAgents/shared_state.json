@@ -1,0 +1,50 @@
+{
+    "status": "success",
+    "raw_input": "An 18-year-old boy with no significant past medical history presented with a fracture of distal left thigh after a trivial fall. He had been complaining of off and on pain in the thigh for the last 6 weeks. He denied any other symptoms such as fever, weight loss, night sweats etc. For the last 3 weeks, patient noticed a soft tissue swelling in the area. The patient saw his pediatrician who got an Xray of the left thigh and knee. The Xray showed a soft tissue mass and destruction of normal bone trabecular pattern. Patient was referred to an oncologist who got MRI with gadolinium of the left thigh and knee. Patient underwent bone biopsy which showed the diagnosis of osteosarcoma. CT of chest and FDG-PEF/CT showed a mass in the left lung consistent with metastatic disease. Patient underwent neoadjuvant chemotherapy followed by wide excision of the bone tumor with negative margins. He also underwent resection of the solitary lung metastasis. Patient continued with another course of chemotherapy and radiation therapy. He was followed by his oncologist for regular surveillance of the cancer.",
+    "timestamp": "2025-07-25 10:02:09.626630",
+    "initial_check": [
+        "soft tissue swelling",
+        "pain in the thigh"
+    ],
+    "symptoms": [
+        "soft tissue swelling",
+        "pain in the thigh"
+    ],
+    "patient_info": {
+        "age": 18,
+        "sex": null,
+        "history": "no significant past medical history, family history of cancer",
+        "additional_details": {},
+        "name": "18-year-old boy"
+    },
+    "previous_imaging": [
+        {
+            "type": "Xray",
+            "date": "not specified",
+            "findings": "soft tissue mass, destruction of normal bone trabecular pattern",
+            "additional_details": {}
+        },
+        {
+            "type": "MRI with gadolinium",
+            "date": "not specified",
+            "findings": null,
+            "additional_details": ""
+        },
+        {
+            "type": "CT of chest",
+            "date": "not specified",
+            "findings": "mass in the left lung consistent with metastatic disease",
+            "additional_details": ""
+        },
+        {
+            "type": "FDG-PEF/CT",
+            "date": "not specified",
+            "findings": null,
+            "additional_details": ""
+        }
+    ],
+    "additional_info": {
+        "diagnosis": "osteosarcoma",
+        "treatment": "neoadjuvant chemotherapy, wide excision of the bone tumor, resection of solitary lung metastasis"
+    }
+}

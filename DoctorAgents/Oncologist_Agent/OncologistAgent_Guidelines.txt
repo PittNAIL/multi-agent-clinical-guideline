@@ -1,0 +1,195 @@
+Refer to appropriate NCCN Guidelines for Treatment by Cancer Type
+
+There is a considerable controversy regarding the grading of chondrosarcoma. In addition to histology, radiologic features, size, and location of tumors should also be considered in deciding local treatment.
+
+Primary Treatment for Atypical Cartilaginous Tumors
+
+Surveillance
+
+There is no known standard chemotherapy options for conventional chondrosarcoma grades 1-3, but ivosidenib is an option for susceptible IDH1 mutations. See Systemic Therapy Agents (BONE-B)
+
+1. Primary Treatment for:
+
+Treatment includes:
+
+NO: Proceed to surveillance
+
+2. Surveillance
+
+Systemic Recurrence
+
+There is no known standard chemotherapy options for conventional chondrosarcoma grades 1-3, but ivosidenib is an option for susceptible IDH1 mutations. See Systemic Therapy Agents (BONE-B).
+
+Consider systemic therapy
+
+Alternative Treatment Approach
+May consider treating as osteosarcoma (category 2B) .
+
+Tumor Mutational Burden (TMB) and MMR/MSI Testing
+Consider testing for tumor mutational burden (TMB) and mismatch repair/microsatellite instability (MMR/MSI) as determined by a validated and/or FDA-approved assay to inform treatment options.
+
+Follow Presentation and Primary Treatment (CHOR-2)
+
+Chordoma Treatment Decision Tree
+
+Step 2A: Primary Treatment for Sacrococcygeal and Mobile Spine
+
+Consider Definitive RT → Go to Surveillance (CHOR-3)
+
+Step 2B: Primary Treatment for Skull Base/Clival
+
+Consider Definitive RT → Go to Surveillance (CHOR-3)
+
+Step 3A: Adjuvant Treatment
+
+Step 3B: Adjuvant Treatment
+
+Final Step: Surveillance
+
+Proceed to Surveillance Guidelines (CHOR-3)
+
+Surveillance:
+
+→ Treatment Options:
+
+Ablation and or Systemic therapy or
+
+→ Treatment Options:
+
+Systemic therapy (Bone Cancer Systemic Therapy Agents (BONE-B)), consider testing for TMB and MMR/MSI as determined by a validated and/or FDA approved assay to inform treatment options and/or
+
+Consider testing for TMB (Tumor Mutational Burden) and MMR/MSI for treatment decisions.
+
+Primary Treatment:
+
+Multiagent Chemotherapy (Category 1) for at least 9 weeks prior to local therapy
+
+Longer treatment prior to local control therapy can be considered in patients with metastatic disease based on response.
+
+Step 1: Primary Treatment Response
+
+Stable/Improved Disease Following Primary Treatment → Proceed to Local Control Therapy
+
+Progressive Disease Following Primary Treatment → Consider RT and/or Surgery for Local Control or Palliation→ Continue to Progressive Disease/Relapse
+
+Steps 2+3: Local Control Therapy Options and Adjuvant Treatment/Additional Therapy
+
+Positive Margins → Continue chemotherapy (Category 1) Followed by RT or RT and chemotherapy (category 1, for chemotherapy) → Continue to Surveillance
+
+Negative Margins → Chemotherapy (category 1) and consider RT for pelvic tumors→ Continue to Surveillance
+
+Definitive RT and Chemotherapy→ Continue to Surveillance
+
+Amputation (Selected Cases) → Continue to Surveillance
+
+Step 4: Surveillance
+
+Relapse → Chemotherapy ± RT ± Surgery
+
+Progressive Disease → Chemotherapy or Best Supportive Care
+
+Bone Cancer Systemic Therapy Agents (BONE-B)
+
+There is category 1 evidence for between 28 and 49 weeks of chemotherapy depending on the chemotherapy and dosing schedule used.
+
+Positive Margins → Continue chemotherapy (category 1) → Followed by Radiation Therapy (RT) or RT and chemotherapy (category 1, for chemotherapy) → Continue to Metastases
+
+Negative Margins → Chemotherapy (category 1) → Continue to Metastases
+
+Definitive RT + Chemotherapy→ Continue to Metastases
+
+Continuing chemotherapy only with palliative surgery
+
+Bone Cancer Systemic Therapy Agents (BONE-B)
+
+There is category 1 evidence for between 28 and 49 weeks of chemotherapy depending on the chemotherapy and dosing schedule used.
+
+Consider testing for TMB (category 2B) and MMR/MSI as determined by a validated and/or FDA-approved assay to inform treatment options.
+
+Yes, Resectable→ Perform Excision→ Continue to Surveillance (GCTB-3)
+
+Treatment Response:
+
+Stable/Improved Disease → Proceed to Surveillance (GCTB-3)
+
+If it changes to resectable → Perform Excision → Surveillance (GCTB-3)
+
+If remains unresectable → Surveillance (GCTB-3)
+
+If it becomes Progressive Disease → repeat treatment from beginning OR if remains unresectable → Surveillance (GCTB-3)
+
+Yes, resectable → For primary tumor, treat as above Consider excision of metastatic sites→ Continue to Surveillance (GCTB-3)
+
+Then proceed to Surveillance (GCTB-3)
+
+Denosumab may be continued until disease progression, in responding disease.
+
+Bone Cancer Systemic Therapy Agents (BONE-B).
+
+Treatment of primary tumor is as described for localized disease.
+
+Step 1: Surveillance
+
+Step 2: Primary Treatment
+
+High-Grade? → Chemotherapy (Category 1) → Surveillance (OSTEO-4)
+
+Low-Grade? → Surveillance (OSTEO-4)
+
+Periosteal Osteosarcoma → Consider Chemotherapy → Wide Excision
+
+High-Grade? → Chemotherapy (Category 1) → Surveillance (OSTEO-4)
+
+Low-Grade? → Surveillance (OSTEO-4)
+
+Bone Cancer Systemic Therapy Agents (Bone-B).
+
+➤ Neoadjuvant Treatment
+
+Preoperative chemotherapy (Category 1)
+
+Restage with pretreatment imaging modalities:
+
+Adjuvant Treatment:
+
+Chemotherapy
+
+Chemotherapy
+
+Continue preoperative regimen OR consider changing chemotherapy (Category 3)
+
+Chemotherapy
+
+Continue preoperative regimen OR consider changing chemotherapy (Category 3)
+
+Surveillance:
+
+Follow OSTEO-4 guidelines for surveillance.
+
+Bone Cancer Systemic Therapy Agents (BONE-B).
+
+Primary Treatment:
+
+Chemotherapy
+
+Then proceed to: Surveillance (OSTEO-4)
+
+Primary Treatment:
+
+Chemotherapy
+
+Then proceed to: Surveillance (OSTEO-4)
+
+Bone Cancer Systemic Therapy Agents (BONE-B).
+
+Consider testing for TMB (Tumor Mutational Burden) and MMR/MSI (Mismatch Repair/Microsatellite Instability) as determined by validated and/or FDA-approved assays to guide treatment options.
+
+1. Surveillance Phase:
+
+Chemotherapy and/or excision if possible.
+
+If Response detected→ Return to Surveillance Phase.
+
+If Relapse/Progression detected:
+
+Bone Cancer Systemic Therapy Agents (BONE-B).

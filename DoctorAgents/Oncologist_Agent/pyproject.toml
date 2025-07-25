@@ -1,0 +1,32 @@
+[project]
+name = "Oncologist-agent"
+version = "0.1.0"
+description = "OncologistAgent for NCCN-based treatment-plan confirmation"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "click>=8.1.8",
+    "google-adk>=0.1.0",
+    "google-genai>=1.16.1",
+    "python-dotenv>=1.1.0",
+    "litellm>=1.0.0",
+    "ollama>=0.1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "black", "isort", "mypy"]
+
+[tool.setuptools]
+packages = ["."]
+
+[tool.black]
+line-length = 88
+target-version = ['py311']
+
+[tool.isort]
+profile = "black"
+
+[tool.mypy]
+python_version = "3.11"
+warn_return_any = true
+warn_unused_configs = true
