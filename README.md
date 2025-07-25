@@ -4,6 +4,38 @@ This project is a multi-agent system designed to simulate a clinical workflow fo
 
 All agents leverage a local Ollama instance running Llama 3.2, so no cloud API keys are required.
 
+## System Architecture
+
+```mermaid
+flowchart TD
+    UI["Web UI (http://localhost:12000)"]
+    Host["HostAgent"]
+    Ollama["Ollama (Llama 3.2)"]
+    Intake["Intake Agent\n(http://localhost:10006)"]
+    Radiologist["Radiologist Agent\n(http://localhost:10007)"]
+    Pathologist["Pathologist Agent\n(http://localhost:10008)"]
+    Oncologist["Oncologist Agent\n(http://localhost:10009)"]
+    Surgical["Surgical Agent\n(http://localhost:10010)"]
+    Surveillance["Surveillance Agent\n(http://localhost:10011)"]
+
+    UI --> Host
+    Host --> Intake
+    Host --> Radiologist
+    Host --> Pathologist
+    Host --> Oncologist
+    Host --> Surgical
+    Host --> Surveillance
+    Host --> Ollama
+    Intake --> Ollama
+    Radiologist --> Ollama
+    Pathologist --> Ollama
+    Oncologist --> Ollama
+    Surgical --> Ollama
+    Surveillance --> Ollama
+```
+
+This diagram shows how the Web UI communicates with the HostAgent, which orchestrates tasks between the specialist Doctor Agents. All agents interact with the local Ollama instance for AI-powered reasoning.
+
 ## Prerequisites
 
 - Python 3.12+
@@ -93,4 +125,4 @@ After starting the UI, you must manually connect the central `HostAgent` to each
     -   `http://localhost:10010`
     -   `http://localhost:10011`
 
-After registering all six agents, you can navigate back to the main chat page and start a conversation. The `HostAgent` will now be able to find the specialist agents and orchestrate the clinical workflow correctly. 
+After registering all six agents, you can navigate back to the main chat page and start a conversation. The `HostAgent` will now be able to find the specialist agents and orchestrate the clinical workflow correctly.
